@@ -78,7 +78,7 @@ header{
     text-align: right; 
 }
 .right-title {
-    text-align: right; 
+    text-align: center; 
 }
 .centred-item{
     display: flex;
